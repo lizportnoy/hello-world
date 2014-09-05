@@ -1,5 +1,5 @@
 hello-world
 ===========
 
-// This is my first repository
+This is my first repository
 // Testing out github
